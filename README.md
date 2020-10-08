@@ -9,6 +9,6 @@ Inspired by [@florinpop17](https://github.com/florinpop17/10-projects-10-hours/t
 
 
 ### Preview
-
+![Preview from project](./preview.png)
 
 **Forged by [Marcelo](https://github.com/MarceloDaLuz) 👾**
